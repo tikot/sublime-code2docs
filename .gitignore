@@ -1,0 +1,7 @@
+#Sublime files
+*.sublime-project
+*.sublime-workspace
+
+#Project files
+*.py[co]
+t.py

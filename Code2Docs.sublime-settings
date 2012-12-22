@@ -1,0 +1,14 @@
+/*
+ * sublime-code2docs default settings
+ * 
+ * DO NOT modify this file,
+ * Copy the content to user settings
+ * 
+ * */
+{
+	"output_path": "./", // defult "./"
+	"css_file": "", // file path to css
+	"template_file": "" //file path to a custom template .jst
+}
+
+

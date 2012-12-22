@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "Project",
+    "id": "project",
+    "children":
+    [
+      {
+        "command": "gendoc",
+        "caption": "Generate Docs",
+        "mnemonic": "G" 
+      }
+    ]
+  }
+]
