@@ -17,9 +17,9 @@ class gendocCommand(sublime_plugin.TextCommand):
 def fileDir(self_file, output, css, template):
 
    if output == './':
-      file_dir = os.path.dirname(self_file)
+      its_dir = os.path.dirname(self_file)
    else:
-      file_dir = os.path.dirname(output)
+      its_dir = os.path.dirname(output)
 
    window = sublime.active_window()
    folders = window.folders()
